@@ -1,4 +1,4 @@
-# Classic Arcade Game Clone Project
+# Classic Arcade Game
 example app that implements the famous Arcade Game of single player skipping collusion with bugs.
 ## Table of Contents
 
@@ -7,8 +7,9 @@ example app that implements the famous Arcade Game of single player skipping col
 
 ## Instructions
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+
 When the game starts,player must Make it to the water line to be safe, and win the game!
+Check out the project in the [Classic Arcade Game](https://setaek.github.io/Classic-Arcade-Game/).
 ## Controls
 **Arrow Keys**
 - Left Arrow: move left
