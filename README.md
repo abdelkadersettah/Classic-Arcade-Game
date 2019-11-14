@@ -22,4 +22,4 @@ Check out the project in the [Classic Arcade Game](https://setaek.github.io/Clas
 
 ## Contributing
 
-Provide additional functionality to the game beyond minimum requirements, for example:
+Provide additional functionality to the game beyond minimum requirements.
